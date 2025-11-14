@@ -4,7 +4,7 @@ This document describes the over-the-air communication standard used between the
 
 ## Radio Parameters
 
-- **Frequency:** 915-930 MHz
+- **Frequency:** 902-915 MHz
 - **Bandwidth:** 125 kHz
 - **Spreading Factor:** 7
 - **Coding Rate:** 4/5
